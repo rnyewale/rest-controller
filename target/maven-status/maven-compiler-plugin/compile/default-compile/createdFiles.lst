@@ -1,0 +1,12 @@
+com\rest\api\course\CourseRepositories.class
+com\rest\api\restcontroller\repo\TopicRepository.class
+com\rest\api\restcontroller\controllers\TopicController.class
+com\rest\api\restcontroller\controllers\TopicControllerJpa.class
+com\rest\api\course\Course.class
+com\rest\api\course\CourseService.class
+com\rest\api\restcontroller\services\TopicServiceJpa.class
+com\rest\api\restcontroller\model\Topic.class
+com\rest\api\restcontroller\RestControllerApplication.class
+com\rest\api\restcontroller\model\TopicEntity.class
+com\rest\api\restcontroller\services\TopicService.class
+com\rest\api\course\CourseController.class
